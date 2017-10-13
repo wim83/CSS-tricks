@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Yellowtail');
+/* font-family: 'Yellowtail', cursive;
+font-family: 'Dancing Script', cursive;
+ */
+
+body{margin: 0;}
+
+div {
+    background-color: gray;
+    height: 33vw;
+    width: 33vw;
+    float: left;
+    margin: 0,16666665vw;
+    box-sizing: border-box;
+    text-align: center;
+    border: 3px solid gold;
+    
+}
+
+.one{ background-color: green;}
+.two {background-color:red;}
+.three { background-color: blue;}
+.four{background-color:royalblue;}
+.five{background-color:lavender;}
+
+.zes{background-color:pink;}
+.zeven{background-color:purple;}
+.acht{background-color:honeydew;}
+.negen{background-color:hotpink;}
+.tien{background-color:darkcyan;}
+.elf{background-color:darkgoldenrod;}
+.twaalf{background-color:darkgray;}
+.der{background-color:darkkhaki;}
+.veer{background-color:darkolivegreen;}
+.vijf{background-color:darkred;}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    margin-left: 20px;
+}
+img {
+    width: 33vw;
+    height: 33vw;
+    margin: 0.166665vw;
+    float: left;
+}
