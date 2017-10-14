@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Yellowtail');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 /* font-family: 'Yellowtail', cursive;
 font-family: 'Dancing Script', cursive;
  */
@@ -34,13 +35,25 @@ div {
 .veer{background-color:darkolivegreen;}
 .vijf{background-color:darkred;}
 
+body{
+    background-color: #999999;
+}
 h1{
-    font-family: 'Dancing Script', cursive;
-    margin-left: 20px;
+    font-family: Raleway;
+    /* margin-left: 20px; */
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px  solid #f1f1f1;
+    padding-bottom: 1.66px;
+    width: 30%;
 }
 img {
-    width: 33vw;
-    height: 33vw;
-    margin: 0.166665vw;
+    width: 30%;
+    /* width: 30vw; */
+    /* height: 30vw; */
+    /* margin: 1.66665vw; */
+    margin: 1.66%;
     float: left;
 }
